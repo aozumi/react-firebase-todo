@@ -1,0 +1,8 @@
+// firebaseの認証情報
+
+const firebaseConfig = {
+    // ここにウェブアプリ用の認証情報(apiKeyなど)をコピー
+};
+
+export default firebaseConfig;
+
